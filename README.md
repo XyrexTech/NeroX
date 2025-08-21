@@ -1,2 +1,2 @@
 # NeroX
-Premium WhatsApp Bot for Automation and Smart Replies
+Premium WhatsApp Bot for Smart Automation
